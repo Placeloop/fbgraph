@@ -15,7 +15,7 @@
   "main": "index",
   "dependencies": {
     "qs": "^1.2.2",
-    "request": "^2.79.0"
+    "request": "2.79.0"
   },
   "devDependencies": {
     "vows": "^0.7.0"
